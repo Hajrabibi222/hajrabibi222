@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Hajra Bibi 👋
+About Me
 
-<!--
-**Hajrabibi222/hajrabibi222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Hajra Bibi, a Final-year Chemical Engineering student at Uet Peshawar from Peshawar, Pakistan.
+I am interested in environmental engineering, wastewater treatment, and sustainable materials.
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Chemical process fundamentals
+
+Solid hybrid fuel synthesis & characterization
+
+Data analysis (Excel, Python)
+
+Laboratory techniques: combustion, drying, mixing
+
+Technical writing & literature review
+
+Projects
+
+processing of 100tonnes/yr solid hybrid fuel comprizing coal dust and kikar biomass.
+
+Contact
+Email: hajrasardar011@gmail.com
